@@ -1,0 +1,196 @@
+body {
+	margin: 0;
+}
+
+
+
+section {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+
+
+
+
+.box-1 {
+	width: 33.33%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-1 {
+	background: blue;
+	color: #fff;
+	padding: 5px;
+}
+
+
+.box-2 {
+	width: 100%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-2 {
+	background: gray;
+	color: #fff;
+	padding: 10px;
+}
+
+
+.box-3 {
+	width: 50%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-3 {
+	background: green;
+	color: #fff;
+	padding: 15px;
+}
+
+
+.box-4 {
+	width: 70%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-4 {
+	background: teal;
+	color: #fff;
+	padding: 10px;
+}
+
+
+
+.box-5 {
+	width: 15%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-5 {
+	background: blue;
+	color: #fff;
+	padding: 10px;
+}
+
+
+
+
+.text {
+	padding: 15px;
+}
+
+.box {
+	width: 33.33%;
+	height: 100%;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+
+.color-10 {
+	background: teal;
+	color: #fff;
+}
+
+
+.box-1 {
+	width: 33.33%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-10 {
+	background: red;
+	color: #fff;
+	padding: 5px;
+}
+
+
+.box-2 {
+	width: 100%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-2 {
+	background: red;
+	color: #fff;
+	padding: 10px;
+}
+
+
+.box-3 {
+	width: 50%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-3 {
+	background: red;
+	color: #fff;
+	padding: 15px;
+}
+
+
+.box-4 {
+	width: 70%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-4 {
+	background: teal;
+	color: #fff;
+	padding: 10px;
+}
+
+
+
+.box-5 {
+	width: 15%;
+	height: 100px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.color-5 {
+	background: teal;
+	color: #fff;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
